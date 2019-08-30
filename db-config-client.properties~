@@ -1,4 +1,0 @@
-db.driver.classname=orcledeiver
-db.username=oracleuser
-db.password=oraclepassword
-db.url=oracleurl
