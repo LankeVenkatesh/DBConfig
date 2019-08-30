@@ -1,4 +1,4 @@
 
 db.username=oracleuser-qa
 db.password=oraclepassword-qa
-db.url=oracleurl-qatest
+db.url=oracleurl-qa
