@@ -1,4 +1,4 @@
-db.driver.classname=db.class.name
-db.username=db-username
-db.password=db-password
-db.url=db-url
+db.driver.classname=orcledeiver
+db.username=oracleuser
+db.password=oraclepassword
+db.url=oracleurl
